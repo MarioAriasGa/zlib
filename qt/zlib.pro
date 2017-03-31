@@ -2,7 +2,7 @@ TEMPLATE = lib
 TARGET = zlib
 CONFIG += warn_off
 
-DESTDIR = $$PWD/../../bin
+DESTDIR = $$PWD/../bin
 
 INCLUDEPATH += ..
 
